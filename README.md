@@ -11,6 +11,6 @@
 ##
 
 <div align="center">
-  <img src="src/img/logo-senai.png" height="150px">
+  <img src="src/img/logo-senai.png" height="80px">
   <p align="justify">Tão antiga quanto o próprio SENAI-SP, em 02 de agosto de 1943, a Escola SENAI “Roberto Simonsen” iniciava suas atividades em dois endereços próximos ao atual. Ela já nascia com grandes proporções para o atendimento das largas demandas que caracterizam São Paulo como centro econômico e pólo tecnológico do País.</p>
 </div>
